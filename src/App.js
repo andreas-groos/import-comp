@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+// import { Test } from '@andreas-groos/export-comp'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        {/* <Test message="Hi there" /> */}
       </header>
     </div>
   );
